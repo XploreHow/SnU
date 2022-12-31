@@ -1,2 +1,2 @@
-# snuxplore
-Created with CodeSandbox
+# XploreHow
+Created by team XploreHow
